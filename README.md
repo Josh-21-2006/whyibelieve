@@ -88,7 +88,7 @@
 <section id="questions">
   <p>You can contact me by mail:</p>
 
-  <a class="button" href="mailto:whitesoldier212006@gmail.com">
+  <a href="mailto:whitesoldier212006@gmail.com">
     whitesoldier212006@gmail.com
   </a>
 </section>
